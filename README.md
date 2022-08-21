@@ -13,4 +13,5 @@ this link https://github.com/typicode/json-server
 
 **Running the tests from IntelliJ**
 
-- Run any test/whole class
+- Download code from github
+- Run any test/whole class (on master branch)
